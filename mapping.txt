@@ -1,0 +1,3 @@
+boostrap_proto : bootstrap_protocol
+os : platform/image
+vswitch_type : network/backend
